@@ -1,0 +1,2 @@
+vless://6382ec74-dbb0-4baa-a124-30b0dedd1879@odik3.admin-amirs.ir:443?encryption=none&security=tls&sni=telegram-odik3.telegram-odik3.workers.dev&fp=randomized&type=ws&host=telegram-odik3.telegram-odik3.workers.dev&path=%2F%3Fed%3D2560#%F0%9F%94%BAInstagram%3AAdmin.Amirs%F0%9F%94%BB443
+vless://6382ec74-dbb0-4baa-a124-30b0dedd1879@odik3.admin-amirs.ir:80?encryption=none&security=none&sni=telegram-odik3.telegram-odik3.workers.dev&fp=randomized&type=ws&host=telegram-odik3.telegram-odik3.workers.dev&path=%2F%3Fed%3D2560#%F0%9F%94%BAInstagram%3AAdmin.Amirs%F0%9F%94%BB80
